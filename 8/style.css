@@ -1,0 +1,20 @@
+body{
+  background: tan;
+}
+
+p{
+  background: cyan;
+}
+a{
+  background: gray;
+}
+
+#name{
+  display: block;
+}
+#city{
+  display: block;
+}
+#pincode{
+  display: block;
+}
