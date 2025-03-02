@@ -1,0 +1,14 @@
+body{
+  background: tomato;
+}
+
+#firstDiv{
+  background: yellow;
+
+}
+#secondDiv{
+  background: lime;
+}
+.divs{
+  color: blue;
+}
