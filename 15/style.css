@@ -1,0 +1,9 @@
+body{
+  background: cadetblue;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  background: maroon;
+  color: yellow;
+}
