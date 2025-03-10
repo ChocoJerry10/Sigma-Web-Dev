@@ -1,0 +1,8 @@
+div:nth-child(1){
+  background: yellow;
+  color: red;
+}
+div:nth-child(2){
+  background: blue;
+  color: white;
+}
