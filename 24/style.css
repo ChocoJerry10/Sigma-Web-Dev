@@ -1,0 +1,9 @@
+.box{
+  margin: 20px;
+  width: 70%;
+  border: 2px solid pink;
+  padding: 34px;
+  box-shadow: 5px 5px 5px 0.1px black;
+  text-shadow: 5px 5px 7px  red;
+  outline: 2px solid #000;
+}
