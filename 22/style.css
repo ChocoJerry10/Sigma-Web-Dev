@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box{
+  box-sizing: border-box;
+  border: 2px solid black;
+  width: 80vw;
+  height: 10vh;
+  margin: auto;
+  background: aquamarine;
+}
+
+
+.container{
+  box-sizing: border-box;
+  border: 2px solid black;
+  width: 80vw;
+  height: 80vh;
+  margin: 23px auto;
+  background: aquamarine;
+  font-size: 16px;
+}
+
+.container p {
+  font-size: 1em;
+}
+
+.mycont{
+  background: red;
+  color: yellow;
+  font-size: 22px;
+  width: 100vmin;
+}
