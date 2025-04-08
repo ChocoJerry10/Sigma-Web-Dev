@@ -1,0 +1,59 @@
+*{
+  background: #ebe8e8;
+  /* margin: 0;
+  padding: 0; */
+}
+
+.poster{
+  width: 50%;
+  border: 1px solid blue;
+  margin: auto;
+  background: white;
+  border-radius: 02cap;
+}
+.image{
+border-radius: 10cap;
+background-color: white;
+
+}
+.image img{
+  padding: 10px;
+  border-radius: 10%;
+  height: 250px;
+  width: 93%;
+  background: white;
+  position: relative;
+
+}
+
+.image button{
+  border: 1px solid #c0bebe;
+  border-radius: 40cap;
+  margin-left: 20px;
+  padding: 5px 10px;
+  color: blue;
+  background: white;
+}
+
+.text{
+  background: white;
+  margin: 20px;
+}
+.text h1{
+  background: white;
+}
+.text p {
+  background: white;
+}
+
+.text button{
+  height: 35px;
+  width: 100px;
+  margin-left: 25%;
+  padding: 10px 15px;
+  color: blue;
+  background: rgb(215, 218, 219);
+  border-radius: 25cap;
+  border: none;
+
+}
