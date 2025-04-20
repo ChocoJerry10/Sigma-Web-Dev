@@ -1,0 +1,18 @@
+
+.box:first-child{
+  background: red;
+}
+.box::first-line{
+  background: aqua;
+}
+
+::selection{
+  background: black;
+  color: aqua;
+}
+
+.box::first-letter{
+  background: yellow;
+  font-size: 2em;
+  color: red;
+}

@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-text: white;
+  --color-primary: #4CAF50;
+  --color-secondary: #f44336;
+  --color-background: #d413ab;
+  --color-tertiary: #333;
+}
+
+.navbar ul {
+  display: flex;
+  background: var(--color-background);
+
+}
+
+.navbar li {
+  list-style: none;
+  margin-left: 20px;
+  margin: 12px;
+}
+
+ul li{
+  color: var(--color-text);
+} 
+
+ul li a{
+  color: var(--color-text);
+  text-decoration: none;
+}
